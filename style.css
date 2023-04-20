@@ -123,3 +123,9 @@ nav li a:hover {
         width: 100%;
     }
 }
+
+h1 {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
